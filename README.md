@@ -35,9 +35,6 @@ This project is an **Image Caption Generator** web app built with **Streamlit** 
    
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-  ```bash
-  You can now simply copy and paste this markdown into a `README.md` file in your repository, and GitHub will render it correctly.
-  ```
 
 ### Future Improvements
 
