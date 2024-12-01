@@ -32,15 +32,15 @@ This project is an **Image Caption Generator** web app built with **Streamlit** 
 1. The user uploads up to 3 images through the web interface.
 2. The images are processed using the BLIP model from Hugging Face to generate captions.
 3. The captions are displayed alongside the respective images in a clean, user-friendly layout.
-   
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Future Improvements
 
 * Add Multiple Caption Styles: Allow the user to select different captioning styles (e.g., humorous, detailed, concise).
-* Image Processing Options: Provide options for resizing or adjusting images before captioning.
-* Customizable Model: Integrate a feature where users can upload their own models or fine-tune the existing BLIP model for specific domains (e.g., fashion, nature).
+* Customizable Model: Integrate a feature where users can upload their own models or fine-tune the existing BLIP model for specific  domains (e.g., fashion, nature).
 * Batch Uploads: Support batch uploads of multiple images (more than 3) for users who want to generate captions for large sets of images.
 * Language Support: Add multi-language support to generate captions in languages other than English.
+  
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
